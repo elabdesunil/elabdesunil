@@ -14,7 +14,7 @@
 -->
 
 - 🔭 I’m currently working on multiple projects.
-- 🌱 I’m currently learning AWS's Ecosystem.
+- 🌱 I’m currently learning AWS' Ecosystem.
 - 👯 I’m looking to collaborate on anything interesting.
 - 🤔 I’m looking for help with ideas and tools that can make development faster.
 - 💬 Ask me about React-ing
