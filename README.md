@@ -2,19 +2,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elabdesunil&theme=navy-gear&border=DD2727&ring=DD0C24)](https://git.io/streak-stats)
 <!--
-**sunilale0/sunilale0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elabdesunil/elabdesunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Android Application Development using Java and Advanced Visualization.
-- 🌱 I’m currently learning them.
-- 👯 I’m looking to collaborate on at least a few projects in both topics.
-- 🤔 I’m looking for help with Project Mangement.
-- 💬 Ask me about React, django and docker.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on at least a few projects in ... topics.
+- 🤔 I’m looking for help with ....
+- 💬 Ask me about ..., ..., and ....
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on multiple projects.
-- 🌱 I’m currently learning AWS' Ecosystem.
-- 👯 I’m looking to collaborate on anything interesting.
-- 🤔 I’m looking for help with ideas and tools that can make development faster.
-- 💬 Ask me about React-ing
+- 🔭 I’m currently working on ... projects.
+- 🌱 I’m currently learning ....
+- 👯 I’m looking to collaborate on ... interesting.
+- 🤔 I’m looking for help with ideas and tools that can make ... faster.
+- 💬 Ask me about ...-ing
